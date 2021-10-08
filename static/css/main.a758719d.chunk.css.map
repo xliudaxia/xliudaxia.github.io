@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KAIE,eACF,CAEA,qBACE,gBACF","file":"main.a758719d.chunk.css","sourcesContent":["html {\n  /*  \n  15px *62.5 =10px\n  1rem = 10px */\n  font-size: 62.5%;\n}\n\nhtml body #root .App {\n  min-height: 100vh;\n}\n"]}
